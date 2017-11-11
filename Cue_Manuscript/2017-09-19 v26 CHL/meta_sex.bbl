@@ -1,0 +1,160 @@
+\begin{thebibliography}{23}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{\sc Boraska} {\em et~al.\/}(2012){\sc Boraska}, {\sc
+  Jeron\v{c}i\'{c}}, {\sc Colonna}, {\sc Southam}, {\sc Nyholt} {\em
+  et~al.\/}}]{Boraska:HumMolGenet:2012}
+{\sc Boraska, V.}, {\sc A.~Jeron\v{c}i\'{c}}, {\sc V.~Colonna}, {\sc
+  L.~Southam}, {\sc D.~R. Nyholt}, {\em et~al.\/}, 2012 Genome-wide
+  meta-analysis of common variant differences between men and women.
+\newblock Hum Mol Genet {\bf 21}: 4805--15.
+
+\bibitem[{{\sc Brown} and {\sc Forsythe}(1974)}]{Brown:1974aa}
+{\sc Brown, M.~B.}, and {\sc A.~B. Forsythe}, 1974 Robust tests for the
+  equality of variances {\bf 69}: 364--367.
+
+\bibitem[{{\sc Chen} {\em et~al.\/}(2013){\sc Chen}, {\sc Dong}, {\sc Lin} and
+  {\sc Lee}}]{Chen:ObesRev:2013}
+{\sc Chen, Y.~C.}, {\sc G.~H. Dong}, {\sc K.~C. Lin}, and {\sc Y.~L. Lee}, 2013
+  Gender difference of childhood overweight and obesity in predicting the risk
+  of incident asthma: a systematic review and meta-analysis.
+\newblock Obes Rev {\bf 14}: 222--31.
+
+\bibitem[{{\sc DerSimonian} and {\sc
+  Laird}(1986)}]{DerSimonian:ControlClinTrials:1986}
+{\sc DerSimonian, R.}, and {\sc N.~Laird}, 1986 Meta-analysis in clinical
+  trials.
+\newblock Control Clin Trials {\bf 7}: 177--88.
+
+\bibitem[{{\sc Eskin}(2008)}]{Eskin:GenomeRes:2008}
+{\sc Eskin, E.}, 2008 Increasing power in association studies by using linkage
+  disequilibrium structure and molecular function as prior information.
+\newblock Genome Res {\bf 18}: 653--60.
+
+\bibitem[{{\sc Fox} {\em et~al.\/}(2012){\sc Fox}, {\sc Liu}, {\sc White}, {\sc
+  Feitosa}, {\sc Smith} {\em et~al.\/}}]{Fox:PlosGenet:2012}
+{\sc Fox, C.~S.}, {\sc Y.~Liu}, {\sc C.~C. White}, {\sc M.~Feitosa}, {\sc A.~V.
+  Smith}, {\em et~al.\/}, 2012 Genome-wide association for abdominal
+  subcutaneous and visceral adipose reveals a novel locus for visceral fat in
+  women.
+\newblock PLoS Genet {\bf 8}: e1002695.
+
+\bibitem[{{\sc Han} and {\sc Eskin}(2011)}]{Han:AmJHumGenet:2011}
+{\sc Han, B.}, and {\sc E.~Eskin}, 2011 Random-effects model aimed at
+  discovering associations in meta-analysis of genome-wide association studies.
+\newblock Am J Hum Genet {\bf 88}: 586--98.
+
+\bibitem[{{\sc Hardy} and {\sc Thompson}(1996)}]{Hardy96}
+{\sc Hardy, R.~J.}, and {\sc S.~G. Thompson}, 1996 A likelihood approach to
+  meta-analysis with random effects.
+\newblock Stat Med {\bf 15}: 619--29.
+
+\bibitem[{{\sc Kang} {\em et~al.\/}(2014){\sc Kang}, {\sc Han}, {\sc Furlotte},
+  {\sc Joo}, {\sc Shih} {\em et~al.\/}}]{kang2014metagxe}
+{\sc Kang, E.~Y.}, {\sc B.~Han}, {\sc N.~Furlotte}, {\sc J.~W.~J. Joo}, {\sc
+  D.~Shih}, {\em et~al.\/}, 2014 Meta-analysis identifies gene-by-environment
+  interactions as demonstrated in a study of 4,965 mice.
+\newblock PLoS Genet {\bf 10}: e1004022.
+
+\bibitem[{{\sc Kang} {\em et~al.\/}(2010){\sc Kang}, {\sc Sul}, {\sc Service},
+  {\sc Zaitlen}, {\sc Kong} {\em et~al.\/}}]{Kang2010}
+{\sc Kang, H.~M.}, {\sc J.~H. Sul}, {\sc S.~K. Service}, {\sc N.~A. Zaitlen},
+  {\sc S.-Y.~Y. Kong}, {\em et~al.\/}, 2010 Variance component model to account
+  for sample structure in genome-wide association studies.
+\newblock Nat Genet {\bf 42}: 348--54.
+
+\bibitem[{{\sc Kang} {\em et~al.\/}(2008){\sc Kang}, {\sc Zaitlen}, {\sc Wade},
+  {\sc Kirby}, {\sc Heckerman} {\em et~al.\/}}]{Kang:2008bx}
+{\sc Kang, H.~M.}, {\sc N.~A. Zaitlen}, {\sc C.~M. Wade}, {\sc A.~Kirby}, {\sc
+  D.~Heckerman}, {\em et~al.\/}, 2008 {Efficient control of population
+  structure in model organism association mapping.}
+\newblock Genetics {\bf 178}: 1709--1723.
+
+\bibitem[{{\sc Kostis} {\em et~al.\/}(2012){\sc Kostis}, {\sc Cheng}, {\sc
+  Dobrzynski}, {\sc Cabrera} and {\sc Kostis}}]{Kostis:JAmCollCardiol:2012}
+{\sc Kostis, W.~J.}, {\sc J.~Q. Cheng}, {\sc J.~M. Dobrzynski}, {\sc
+  J.~Cabrera}, and {\sc J.~B. Kostis}, 2012 Meta-analysis of statin effects in
+  women versus men.
+\newblock J Am Coll Cardiol {\bf 59}: 572--82.
+
+\bibitem[{{\sc Kubo} {\em et~al.\/}(2013){\sc Kubo}, {\sc Cook}, {\sc Shaheen},
+  {\sc Vaughan}, {\sc Whiteman} {\em et~al.\/}}]{Kubo:Gut:2013}
+{\sc Kubo, A.}, {\sc M.~B. Cook}, {\sc N.~J. Shaheen}, {\sc T.~L. Vaughan},
+  {\sc D.~C. Whiteman}, {\em et~al.\/}, 2013 Sex-specific associations between
+  body mass index, waist circumference and the risk of barrett's oesophagus: a
+  pooled analysis from the international beacon consortium.
+\newblock Gut .
+
+\bibitem[{{\sc Lippert} {\em et~al.\/}(2011){\sc Lippert}, {\sc Listgarten},
+  {\sc Liu}, {\sc Kadie}, {\sc Davidson} {\em
+  et~al.\/}}]{Lippert:NatureMethods:2011}
+{\sc Lippert, C.}, {\sc J.~Listgarten}, {\sc Y.~Liu}, {\sc C.~M. Kadie}, {\sc
+  R.~I. Davidson}, {\em et~al.\/}, 2011 Fast linear mixed models for
+  genome-wide association studies.
+\newblock Nature Methods {\bf 8}: 833.
+
+\bibitem[{{\sc Magi} {\em et~al.\/}(2010){\sc Magi}, {\sc Lindgren} and {\sc
+  Morris}}]{Magi:GenetEpidemiol:2010}
+{\sc Magi, R.}, {\sc C.~M. Lindgren}, and {\sc A.~P. Morris}, 2010
+  Meta-analysis of sex-specific genome-wide association studies.
+\newblock Genet Epidemiol {\bf 34}: 846--53.
+
+\bibitem[{{\sc Mason} and {\sc Lehert}(2012)}]{Mason:AlcoholClinExpRes:2012}
+{\sc Mason, B.~J.}, and {\sc P.~Lehert}, 2012 Acamprosate for alcohol
+  dependence: a sex-specific meta-analysis based on individual patient data.
+\newblock Alcohol Clin Exp Res {\bf 36}: 497--508.
+
+\bibitem[{{\sc Ohmen} {\em et~al.\/}(2014){\sc Ohmen}, {\sc Kang}, {\sc Li},
+  {\sc Joo}, {\sc Hormozdiari} {\em
+  et~al.\/}}]{Ohmen:JAssocResOtolaryngol:2014}
+{\sc Ohmen, J.}, {\sc E.~Y. Kang}, {\sc X.~Li}, {\sc J.~W. Joo}, {\sc
+  F.~Hormozdiari}, {\em et~al.\/}, 2014 Genome-wide association study for
+  age-related hearing loss (ahl) in the mouse: A meta-analysis.
+\newblock J Assoc Res Otolaryngol .
+
+\bibitem[{{\sc Peters} {\em et~al.\/}(2013){\sc Peters}, {\sc Huxley} and {\sc
+  Woodward}}]{Peters:Stroke:2013}
+{\sc Peters, S. A.~E.}, {\sc R.~R. Huxley}, and {\sc M.~Woodward}, 2013
+  Comparison of the sex-specific associations between systolic blood pressure
+  and the risk of cardiovascular disease: A systematic review and meta-analysis
+  of 124 cohort studies, including 1.2 million individuals.
+\newblock Stroke .
+
+\bibitem[{{\sc Porcu} {\em et~al.\/}(2013){\sc Porcu}, {\sc Medici}, {\sc
+  Pistis}, {\sc Volpato}, {\sc Wilson} {\em et~al.\/}}]{Porcu:PlosGenet:2013}
+{\sc Porcu, E.}, {\sc M.~Medici}, {\sc G.~Pistis}, {\sc C.~B. Volpato}, {\sc
+  S.~G. Wilson}, {\em et~al.\/}, 2013 A meta-analysis of thyroid-related traits
+  reveals novel loci and gender-specific differences in the regulation of
+  thyroid function.
+\newblock PLoS Genet {\bf 9}: e1003266.
+
+\bibitem[{{\sc Randall} {\em et~al.\/}(2013){\sc Randall}, {\sc Winkler}, {\sc
+  Kutalik}, {\sc Berndt}, {\sc Jackson} {\em
+  et~al.\/}}]{Randall:PlosGenet:2013}
+{\sc Randall, J.~C.}, {\sc T.~W. Winkler}, {\sc Z.~Kutalik}, {\sc S.~I.
+  Berndt}, {\sc A.~U. Jackson}, {\em et~al.\/}, 2013 Sex-stratified genome-wide
+  association studies including 270,000 individuals show sexual dimorphism in
+  genetic loci for anthropometric traits.
+\newblock PLoS Genet {\bf 9}: e1003500.
+
+\bibitem[{{\sc Sabatti} {\em et~al.\/}(2009){\sc Sabatti}, {\sc Service}, {\sc
+  Hartikainen}, {\sc Pouta}, {\sc Ripatti} {\em
+  et~al.\/}}]{Sabatti:NatGenet:2009}
+{\sc Sabatti, C.}, {\sc S.~K. Service}, {\sc A.-L.~L. Hartikainen}, {\sc
+  A.~Pouta}, {\sc S.~Ripatti}, {\em et~al.\/}, 2009 Genome-wide association
+  analysis of metabolic traits in a birth cohort from a founder population.
+\newblock Nat Genet {\bf 41}: 35--46.
+
+\bibitem[{{\sc Yang} {\em et~al.\/}(2010){\sc Yang}, {\sc Benyamin}, {\sc
+  McEvoy}, {\sc Gordon}, {\sc Henders} {\em et~al.\/}}]{Yang:NatGenet:2010}
+{\sc Yang, J.}, {\sc B.~Benyamin}, {\sc B.~P. McEvoy}, {\sc S.~Gordon}, {\sc
+  A.~K. Henders}, {\em et~al.\/}, 2010 Common snps explain a large proportion
+  of the heritability for human height.
+\newblock Nat Genet {\bf 42}: 565--9.
+
+\bibitem[{{\sc Zhou} and {\sc Stephens}(2012)}]{Zhou:NatGenet:2012}
+{\sc Zhou, X.}, and {\sc M.~Stephens}, 2012 Genome-wide efficient mixed-model
+  analysis for association studies.
+\newblock Nat Genet {\bf 44}: 821--4.
+
+\end{thebibliography}

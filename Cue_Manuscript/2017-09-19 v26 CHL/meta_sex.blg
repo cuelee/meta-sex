@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: meta_sex.aux
+The style file: genetics.bst
+Database file #1: metaSex.bib
+Warning--empty journal in Brown:1974aa
+You've used 23 entries,
+            2828 wiz_defined-function locations,
+            761 strings with 23409 characters,
+and the built_in function-call counts, 18507 in all, are:
+= -- 1422
+> -- 1177
+< -- 7
++ -- 558
+- -- 300
+* -- 1740
+:= -- 2568
+add.period$ -- 45
+call.type$ -- 23
+change.case$ -- 203
+chr.to.int$ -- 23
+cite$ -- 24
+duplicate$ -- 1356
+empty$ -- 1221
+format.name$ -- 379
+if$ -- 3699
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 232
+newline$ -- 95
+num.names$ -- 92
+pop$ -- 475
+preamble$ -- 1
+purify$ -- 180
+quote$ -- 0
+skip$ -- 668
+stack$ -- 0
+substring$ -- 649
+swap$ -- 795
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 207
+warning$ -- 1
+while$ -- 91
+width$ -- 0
+write$ -- 274
+(There was 1 warning)
